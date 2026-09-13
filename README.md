@@ -8,9 +8,9 @@ This repository serves as a public space for our community to ask questions, rep
 
 Before opening a new issue, please use the **GitHub Search bar** at the top of the page to see if someone else has already asked your question or suggested your feature. 
 
-* **Got a Question or Need Help?** [Open a Support Q&A Issue](https://github.com/YOUR_USERNAME/YOUR_REPO/issues/new/choose).
-* **Found a Bug on the Platform?** [Submit a Bug Report](https://github.com/YOUR_USERNAME/YOUR_REPO/issues/new/choose).
-* **Have an Idea for a Feature or Content?** [Submit a Feature/Content Request](https://github.com/YOUR_USERNAME/YOUR_REPO/issues/new/choose).
+* **Got a Question or Need Help?** [Open a Support Q&A Issue](https://github.com/appbnr/sanjie/issues/new/choose).
+* **Found a Bug on the Platform?** [Submit a Bug Report](https://github.com/appbnr/sanjie/issues/new/choose).
+* **Have an Idea for a Feature or Content?** [Submit a Feature/Content Request](https://github.com/appbnr/sanjie/issues/new/choose).
 
 ### 💡 Important: Feature Requests & Ideas
 
